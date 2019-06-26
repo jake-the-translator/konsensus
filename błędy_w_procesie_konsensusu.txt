@@ -1,0 +1,73 @@
+ORYGINAŁ: https://treegroup.info/library/Top-10-Consensus-Mistakes.pdf
+
+10 NAJBARDZIEJ POPULARNYCH BŁĘDÓW W PROCESIE KONSENSUSU I CO ROBIĆ ZAMIAST NICH
+autorstwa Tree Bressen
+
+
+1. NIEPOPRAWNIE UŻYTE BLOKI
+Blokowanie, ponieważ sprzeciwiasz się, nie zgadzasz się z propozycją, nie odpowiada ona Twoim osobistym potrzebom lub wartościom, jest sprzeczna z tradycją, musiał/abyś opuścić grupę, gdyby propozycja przeszła, itp. Do tego punktu zaliczają się również przedwczesne bloki, w których ktoś grozi zablokowaniem, jeśli grupa zdecyduje się badać określony kierunek.
+
+- Konsensus działa tylko wtedy, gdy moc blokowania ogranicza się do obaw, które wyraźnie dotyczą podstawowych zasad grupy. Konsensus oznacza uczciwe i szczere wysłuchanie merytorycznych punktów - nie oznacza natomiast, że zawsze wszystko pójdzie po twojej myśli.
+- Pamiętaj, że dla osób kierowanych sprzeciwem czy namiętnością dostępna jest opcja wstrzymania się od głosu
+
+- Ustanówcie jasną procedurę dotyczącą oceny ważności potencjalnych bloków i tego, co dzieje się, gdy bloki się pojawiają. Stwórzcie solidną odpowiedź na nieodpowiednie bloki.
+- Blokowanie nie musi oznaczać końca dyskusji. Niektóre z najbardziej skutecznych grup działających na zasadzie konsensusu wymagają, aby bloker pomógł wypracować rozwiązanie.
+
+
+2. PRZYZWOLENIE NA ZŁE ZACHOWANIE
+Jeśli tolerowane są słowa i zachowanie wyrażające brak szacunku względem drugiej osoby lub grupy ze strony jednej osoby (krzyk, sarkazm, ośmieszanie, żarty czyimś kosztem itp.), to sytuacja taka pogarsza
+atmosferę spotkania dla wszystkich, wpływając na bezpieczeństwo i dobre samopoczucie całej grupy.
+- Ustal konstruktywny ton i nalegaj, by się go trzymać, uprzejmie, ale wyraźnie powstrzymując wszelkie przejawy podłości, ataku, podkopywania pewności siebie, opresyjnych „izmów” itp. Jesteśmy w pełni zdolni/e do żarliwego nie zgadzania się z szacunkiem.
+
+
+3. SŁABE PLANOWANE AGENDY
+Czas i energia ludzi są cenne; gdy nie są respektowane, osoby przestają się pojawiać na spotkaniach.
+Określ priorytety i bądź realist/ką. Zarezerwuj większość czasu na rzeczy, które wymagają szerokiego i aktywnego zaangażowania.
+- Poświęć czas na stworzenie najlepszej możliwej agendy - a następnie bądź gotów/owa ją zmienić, jeśli grupa jako całość potrzebuje czegoś innego.
+- Umieść najważniejsze punkty wcześnie, aby nie zostały ściśnięte przez mniej ważne kwestie.
+- Unikaj długich raportów (po prostu uzyskaj najważniejsze informacje lub prześlij je mailem) lub ogłoszeń (użyj dużego arkusza przy drzwiach, aby ludzie zobaczyli informacje, przy wchodzeniu i wychodzeniu).
+- Zapewniaj przerwy co najmniej co 90 minut (i nie udawaj, że możesz zrobić 5-minutową przerwę, jeśli twoja grupa nie może).
+
+
+4. TA SAMA OSOBA PRZEDSTAWIAJĄCA TEMATY I FACYLITUJĄCA SPOTKANIA
+Gdy facylitator/ka jest również osobą udzielającą informacji i kontekstu dookoła danego tematu, zmniejsza to bezpieczeństwo dla tych, którzy/re mogą nie zgadzać się z ogólnym nurtem, umieszczając ich/je natychmiast w defensywie.
+- Osoby prezentujące dostarczają informacji i kontekstu oraz powinny mieć swobodę popierania danej inicjatywy.
+- Facylitatorzy/rki muszą być neutralni/e, aby wszystkie osoby czuły się przez nich wspierane.
+- Mieszanie tych ról może działać dobrze w małych grupach podobnych do komitetów (7 osób lub mniej?); im większa grupa, tym bardziej potrzeba neutralności osoby facylitującej i formalnych ról.
+
+
+5. ROZPOCZYNANIE OD PROPOZYCJI, A NIE OD PROBLEMU
+W sytuacjach, w których ludzie chcą czuć się w pełni uprawnieni i włączeni, każda nadmiernie rozwinięta propozycja dotycząca jakiejkolwiek ważnej kwestii nieuchronnie wywoła opór. W tym momencie odbiorcy/czynie  propozycji są przerażeni/one, że zostaną osaczone, podczas gdy twórcy/czynie propozycji czują się niedocenieni/one i nikt nie jest szczęśliwy.
+- W przypadku mniejszych propozycji, które nie wymagają do skutecznego wdrożenia energii wielu osób, rozpoczęcie od propozycji może być dobrym rozwiązaniem.
+- W przypadku bardziej złożonych lub kontrowersyjnych sytuacji, które dotykają wielu osób, zacznijcie od opisania sytuacji i wspólnego zbierania pomysłów w większej grupie. Do wstępnego opracowania tematu przydać się może komitet, o ile nie zapędzi się za daleko w swojej analizie. Później, gdy podstawowy kierunek jest wyznaczony, komitet może opracować szczegóły. Lub, jeśli większa grupa nie ma trudności ze znalezieniem rozwiązania, mogą zażądać stworzenia grupy zadaniowej złożonej z osób o różnych punktach widzenia, aby wspólnie opracowały rozwiązanie.
+
+
+6. ZBYT WIELE SZCZEGÓŁÓW
+Nie ma to jak żmudna, zbyt szczegółowa rozmowa między kilkoma zaangażowanymi osobami, który usypia resztę osób.
+- Patrz #3 powyżej.
+-Delegujcie! Wyślijcie resztę zagadnień do komisji.
+
+
+7. PRZYSPIESZANIE PROCESU
+Prowadzi do nieodpowiednich bloków, sytuacji, w których uzasadnione obawy nie zostały rozwiązane w zintegrowany sposób, więc jedyną opcją dla osoby podnoszącej obawę jest zablokowanie całego procesu,
+co jest trudne dla wszystkich zaangażowanych osób.
+- Dajcie sobie dużo czasu na dyskusję. Dajcie sobie przestrzeń, żeby naprawdę słuchać różnorodnych punktów widzenia,
+ potrzeb i obaw. Zaufajcie mądrości całości.
+- Jeśli macie czas i jeśli jest to ważne, przedyskutujcie sprawę, a następnie odstawcie ją na jakiś czas na boczny tor, by opadły emocje, a następnie do niej wróćcie.
+- Poczekaj z oficjalnym wezwaniem do konsensusu, aż pojawi się poczucie jedności.
+
+
+8. SPĘDZANIE CAŁEGO CZASU SPOTKANIA NA OTWARTEJ DYSKUSJI
+W ogólnej dyskusji wybrzmiewa tylko głos najodważniejszych osób - wiele innych nigdy nawet nie podnosi rąk.
+- Zmieniajcie format (zaplanujcie to z wyprzedzeniem lub na miejscu): dzielcie się na pary lub małe grupy (3-5 osób), ustaw się w pomieszczeniu, aby pokazać spektrum opinii, użyjcie głosowania punktowego, scenek, piszcie rzeczy na kartkach etc. Zobacz zakładkę „Formaty” na stronie Tree, aby uzyskać więcej pomysłów.
+
+
+9. KOJARZENIE PROPOZYCJI Z OSOBAMI
+W momencie, gdy kwestia jest wyłożona na stół, staje się własnością grupy, nie pojedynczej osoby. Więc lepiej odnosić się do pomysłu jako „propozycji X” niż „propozycji Asi”. Z tego samego względu,
+należy unikać proszenia wnioskodawcy o zgodę na „przyjazne poprawki”; propozycja może być modyfikowana przez wszystkie osoby w grupie.
+- Oczekuj, że każda propozycja zostanie znacznie zmodyfikowana zanim zostanie przyjęta.
+
+
+10. NIEJASNE NOTATKI
+Brak dokładnego zarejestrowania sensu spotkania może oznaczać godziny straconej pracy grupowej. Nie zapisuj dosłownie tego, kto/ktosia co powiedział/a, ponieważ długo się to czyta i za bardzo wiąże to problemy z osobowościami.
+- Upewnijcie się, że decyzja i jej powody są wyraźnie zapisane w notatce. Spisujcie wszystkie punkty widzenia, komentarze (imiona i powody) oraz zadania do wykonania (kto zrobi co, kiedy).
